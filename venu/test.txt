@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-ths new one vvv bvbvbvb  bbb
-chnage1
-=======
-ths new one vvv bvbvbvb
-
 chnage2
->>>>>>> ed218bb06ded80e34acffc386f8d42f42471ecf2
