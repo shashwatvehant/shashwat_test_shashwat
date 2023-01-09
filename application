@@ -3,6 +3,7 @@ module1
 code1 
 code2
 code3
+code4 ongoing
 ------
 
 
@@ -12,4 +13,13 @@ code1
 code2 edit by 2nd user
 code3
 code4 edited code
+<<<<<<< Updated upstream
 code 5 edited
+=======
+
+module3
+--------------
+code1
+code2.....
+code3.....
+>>>>>>> Stashed changes
